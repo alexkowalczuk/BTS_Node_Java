@@ -1,3 +1,3 @@
-# CS 245 (Spring 2019) Practice Assignment 08
+# Data Structures and Algorithms
 
-See assignment details on Canvas.
+BTS Node implementation in Java
